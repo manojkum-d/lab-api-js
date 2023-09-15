@@ -1,0 +1,51 @@
+[
+    
+    
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "published_year": 1925,
+            "isbn": "978-0743273565",
+            "description": "A story of the decadence and excess of the Jazz Age.",
+            "image_url": "https://example.com/great_gatsby.jpg"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "published_year": 1960,
+            "isbn": "978-0061120084",
+            "description": "A novel about racial injustice and moral growth in the American South.",
+            "image_url": "https://example.com/to_kill_a_mockingbird.jpg"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian Fiction",
+            "published_year": 1949,
+            "isbn": "978-0451524935",
+            "description": "A dystopian novel about totalitarianism and thought control.",
+            "image_url": "https://example.com/1984.jpg"
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "published_year": 1813,
+            "isbn": "978-1503290565",
+            "description": "A classic novel about love, class, and manners in early 19th-century England.",
+            "image_url": "https://example.com/pride_and_prejudice.jpg"
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "published_year": 1951,
+            "isbn": "978-0316769174",
+            "description": "A coming-of-age novel about teenage rebellion and identity.",
+            "image_url": "https://example.com/catcher_in_the_rye.jpg"
+        }
+    
+    
+]
